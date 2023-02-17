@@ -1,6 +1,6 @@
 <div>
   <div align="center">
-    <h3>xd</h3>
+    <h3>sex count</h3>
     <img src="https://profile-counter.glitch.me/DRainEm0/count.svg"/>
   </div>
 </div>
