@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/immortalpainhihihihi" target="_blank">whoiam?????</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<img src="https://tenor.com/ru/view/touhou-flandre-scarlet-cocotale-gif-24723197" height="100"/></h1>
+<h3 align="center">anime hikka little kawai girl from hanimidzava village 🇺</h3>
 <div>
   <div align="center">
     <h3>count of dead kittens</h3>
