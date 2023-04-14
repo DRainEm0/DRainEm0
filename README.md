@@ -15,7 +15,7 @@
   <img align="center" height="500" src="https://www.gifcen.com/wp-content/uploads/2022/05/shadow-the-hedgehog-gif-7.gif"/>
 </div>
 <div>
-  <img align="left" height="500" src="https://tenor.com/ru/view/touhou-flandre-scarlet-cocotale-gif-24723197"/>
+  <img align="left" height="500" src="https://tenor.com/ru/view/touhou-remilia-scarlet-memories-of-phantasm-remilia-wine-gif-20881116"/>
 </div>
 
 
