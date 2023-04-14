@@ -4,7 +4,6 @@
     <img src="https://profile-counter.glitch.me/DRainEm0/count.svg"/>
   </div>
 </div>
-<div>
   <div align="left">
     <h3>hi!!! hello!!! >_< 
  ⣐⢕⢕⢕⢕⢕⢕⢕⢕⠅⢗⢕⢕⢕⢕⢕⢕⢕⠕⠕⢕⢕⢕⢕⢕⢕⢕⢕⢕
