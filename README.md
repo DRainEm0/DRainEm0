@@ -8,5 +8,5 @@
   </div>
 </div>
   <img align="center" height="500" src="https://www.gifcen.com/wp-content/uploads/2022/05/shadow-the-hedgehog-gif-7.gif"/>
-  <img align="center" height="500" src="https://avatars.mds.yandex.net/i?id=bef747d6cc57f563b832820ab2484e9c-5339293-images-thumbs&n=13&exp=1"/>
+  <img align="center" height="500" src="https://steamuserimages-a.akamaihd.net/ugc/946211252056525622/8BA80FE22491CC2C8697C7C509920969F6F12FAD/?imw=512&amp;imh=287&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"/>
 
